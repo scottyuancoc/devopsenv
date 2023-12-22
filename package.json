@@ -1,0 +1,27 @@
+{
+  "name": "devopsenv",
+  "version": "1.0.0",
+  "description": "DevOps Environment Configurator for getting the DevOps toolset ready for use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottyuancoc/devopsenv.git"
+  },
+  "keywords": [
+    "devops",
+    "toolset",
+    "aem"
+  ],
+  "author": "Scott Yuan <yuansc@yahoo.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/scottyuancoc/devopsenv/issues"
+  },
+  "homepage": "https://github.com/scottyuancoc/devopsenv#readme",
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
